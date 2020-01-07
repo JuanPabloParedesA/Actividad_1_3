@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Actividad_1_3</string>
+    <string name="btn2">Carga Informacion</string>
+    <string name="txt1">Ingresa tu nombre</string>
+    <string name="btn1">Escribir</string>
+    <string name="txt2" />
+    <string name="TxtAgregar" />
+</resources>
